@@ -20,7 +20,19 @@
 - 2.AS有哪些优缺点？
 - 3.下载安装Android Studio
 
-**第二节**：[AndroidStudio-Eat-Guide—— **2.Android Stuido与SDK更新**][2]
+**第二节**：[AndroidStudio-Eat-Guide—— 2.Gradle编译优化][5]
+> 
+- 1.硬件优化
+- 2.使用国内Maven仓库或自己搭建
+- 3.使用SS代理
+- 4.开启Gradle离线编译模式
+- 5.调整gradle.properties中的各种配置
+- 6.Android Studio配置优化
+- 7.写死依赖库版本
+- 8.直接在git bash命令行编译项目
+
+
+**第三节**：[AndroidStudio-Eat-Guide—— **3.Android Stuido与SDK更新**][2]
 
 > 
 - 1.检查更新Android Studio
@@ -33,7 +45,7 @@
  - 更新SDK
  - 为Android SDK Manager 设置更新代理(现在不用设代理)
  
-**第三节**：[AndroidStudio-Eat-Guide—— **3.设置相关**][3]
+**第四节**：[AndroidStudio-Eat-Guide—— **4.设置相关**][3]
 
 > 
 - 必须记住的快捷键：Ctrl+Shift+A
@@ -49,7 +61,7 @@
 - 自定义代码折叠区域
 - 让某个区域禁止自动对齐
 
-**第四节**：[AndroidStudio-Eat-Guide—— **4.第一个项目的常见运行：HelloAS**][4]
+**第五节**：[AndroidStudio-Eat-Guide—— **5.第一个项目的常见运行：HelloAS**][4]
 
 > 
 - 创建新的工程
@@ -64,3 +76,4 @@
   [2]: http://coder-pig.github.io/2016/09/18/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%202.Android%20Stuido%E4%B8%8ESDK%E6%9B%B4%E6%96%B0/
   [3]: http://coder-pig.github.io/2016/09/19/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%203.%E8%AE%BE%E7%BD%AE%E7%9B%B8%E5%85%B3/
   [4]: http://coder-pig.github.io/2016/09/19/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%204.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%B8%B8%E8%A7%81%E8%BF%90%E8%A1%8C%EF%BC%9AHelloAS/
+  [5]: http://blog.csdn.net/coder_pig/article/details/71484306
