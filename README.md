@@ -73,7 +73,7 @@
 
 
   [1]: https://github.com/coder-pig/AndroidStudio-Eat-Guide/blob/master/Content/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%201.AS%E7%AE%80%E4%BB%8B%EF%BC%8C%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md
-  [2]: http://coder-pig.github.io/2016/09/18/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%202.Android%20Stuido%E4%B8%8ESDK%E6%9B%B4%E6%96%B0/
+  [2]: https://github.com/coder-pig/AndroidStudio-Eat-Guide/blob/master/Content/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%203.Android%20Stuido%E4%B8%8ESDK%E6%9B%B4%E6%96%B0.md
   [3]: http://coder-pig.github.io/2016/09/19/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%203.%E8%AE%BE%E7%BD%AE%E7%9B%B8%E5%85%B3/
-  [4]: http://coder-pig.github.io/2016/09/19/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%204.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%B8%B8%E8%A7%81%E8%BF%90%E8%A1%8C%EF%BC%9AHelloAS/
-  [5]: http://blog.csdn.net/coder_pig/article/details/71484306
+  [4]: https://github.com/coder-pig/AndroidStudio-Eat-Guide/blob/master/Content/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%205.%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84%E5%B8%B8%E8%A7%81%E8%BF%90%E8%A1%8C%EF%BC%9AHelloAS.md
+  [5]: https://github.com/coder-pig/AndroidStudio-Eat-Guide/blob/master/Content/AndroidStudio-Eat-Guide%E2%80%94%E2%80%94%202.Gradle%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96.md
