@@ -20,7 +20,7 @@
 - 2.AS有哪些优缺点？
 - 3.下载安装Android Studio
 
-**第二节**：[AndroidStudio-Eat-Guide—— 2.Gradle编译优化][5]
+**第二节**：[**AndroidStudio-Eat-Guide—— 2.Gradle编译优化**][5]
 > 
 - 1.硬件优化
 - 2.使用国内Maven仓库或自己搭建
